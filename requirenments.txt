@@ -1,0 +1,8 @@
+streamlit
+pandas
+vaderSentiment
+matplotlib
+bcrypt
+SpeechRecognition
+pydub
+spotipy
