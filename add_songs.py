@@ -1,6 +1,6 @@
 import sqlite3
 
-# Connect to DB
+# Connect     to DB
 conn = sqlite3.connect('songs.db')
 cursor = conn.cursor()
 
